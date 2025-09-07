@@ -1,0 +1,8 @@
+RedTech,0716234571,Gampaha;MX3 Mouse,Logitech,25000,10;Wireless Keyboard,Dell,3000,5;MX5 Headset,Sony,4000,8
+Nanotek,0722336785,Dehiwala;Party Boom Speaker,JBL,7000,4;ROG STRIX G15,Asus,500000,7;Wireless Keyboard,HP,2800,6
+CameraLK,0753216549,Bambalapitiya;27" 165Hz Display,Samsung,50000,2;4K Webcam,Logitech,3500,5;5G Router,TP-Link,1800,3
+ChamaaPC,0721237890,Negombo;Gaming Chair,Corsair,25000,1;Desk,Ikea,20000,2;Lamp,Philips,3500,5
+SahasPC,0765673456,Gampaha;Ranger x14s Mouse,Fantech,8000,10;Speaker,Bose,9000,2;CAT6 Cable,Belkin,600,15
+PCGUIDE,0764567890,Nugegoda;1TB NVME,Kingston,20000,4;8GM GDDR5 RAM,Corsair,15500,6;2TB HDD,WD,10000,3
+
+
